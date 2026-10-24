@@ -24,6 +24,7 @@ Le jeu utilise les fonctionnalités de **Pygame** pour gérer les graphismes, le
 ##  Réalisé par
 
 - Walid Boussetta
+- Feryal Hmaidi
 
 ---
 
